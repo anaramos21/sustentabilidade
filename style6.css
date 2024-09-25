@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:#a5cc6a;
+}
+
+img{
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.galeria{
+    column-count: 3;
+    column-gap: 10px;
+
+}
+

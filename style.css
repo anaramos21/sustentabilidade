@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #a5cc6a;
+}
+
+img{
+    width: 20%;
+    margin-left: 40%;
+
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+footer{
+    margin-top: 22%;
+    align-items: center;
+    display: flex;
+    height: 50px;
+    width: 90%;
+    background-color: #74803a;
+    padding: 0 5%;
+    gap: 180px;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+a:hover{
+    transition: all 0.3s;
+    color: #cccccc;    
+}
+
+.title{
+    text-shadow: black 1px 1px;
+}
+
+
